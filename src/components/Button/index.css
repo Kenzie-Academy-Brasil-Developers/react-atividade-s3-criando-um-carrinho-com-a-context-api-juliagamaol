@@ -1,0 +1,13 @@
+button{
+    cursor: pointer;
+    padding: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 0 auto;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: #90bdd345;
+
+}
